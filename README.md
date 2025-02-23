@@ -17,6 +17,4 @@ The dataset used in this project is the **Superstore Sales Dataset**, which can 
 3. **Shipping Performance**: Calculated the percentage of late shipments.
 4. **Loss-Making Products**: Highlighted products resulting in losses and analyzed potential causes.
 
-## How to Use
-1. Clone this repository:
-   ```bash
+
